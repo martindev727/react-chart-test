@@ -1,0 +1,7 @@
+{
+  "name": "chart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

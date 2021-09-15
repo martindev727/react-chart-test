@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "chart",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
