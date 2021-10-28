@@ -1,0 +1,21 @@
+.chart-section {
+    width: 350px !important;
+}
+.cause-percent {
+    display: flex;
+}
+
+.cause-bar-percent {
+    flex: 1;
+    background: #F6F6F8;
+    border-radius: 10px;
+}
+.fill-bar-percent {
+    height: 100%;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #7A52C1 0%, #9777CF 100%);
+}
+.cause-percent-text {
+    width: 50px;
+    text-align: right;
+}
